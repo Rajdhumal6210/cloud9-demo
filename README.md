@@ -1,3 +1,3 @@
 # cloud9-demo
 this is my first git repository</br>
-author- Raj dhumal
+author- Raj (cloud9)
